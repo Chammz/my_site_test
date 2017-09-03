@@ -22,9 +22,17 @@ url: "https://storekeeper-chimpanzee-57255.netlify.com/" # the base hostname & p
 twitter_username: tophs_mcgoats
 github_username:  Chammz
 
+image: /_site/assets/img/san-francisco.jpg
+color: '#A85641'
+
+
+author:
+  name:  Topher Hammond
+  email: topher.hammond@gmail.com
+
 # Build settings
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-hydejack
 plugins:
   - jekyll-feed
 
