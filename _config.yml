@@ -19,7 +19,7 @@ description: > # this means to ignore newlines until "baseurl:"
  Tidbits from me, my interests in coding & exploring.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://storekeeper-chimpanzee-57255.netlify.com/" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: tophs_mcgoats
+twitter_username: tophsmcgoats
 github_username:  Chammz
 
 image: /_site/assets/img/san-francisco.jpg
